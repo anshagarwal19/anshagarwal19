@@ -1,4 +1,4 @@
-![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://www.datatobiz.com/wp-content/uploads/2023/01/AI-consulting.gif))
+![MasterHead](https://www.datatobiz.com/wp-content/uploads/2023/01/AI-consulting.gif)
 
 <h1 align="center">Hi 👋, I'm Ansh Agarwal</h1>
 <h3 align="center">A passionate AI/ML Developer from India 🇮🇳</h3>
